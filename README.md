@@ -7,7 +7,11 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/kiprutobrian" target="_blank">Brian!</a> 👋</h1>
 
-<h3 align="center">Client Strategy & Insights Specialist @ Indeed, Data/Machine Learning/Software Engineer!</h3>
+<h3 align="center">
+    Client Strategy & Insights Specialist @ Indeed
+    <br/>
+    Data/Machine Learning | Web Developer | Software Engineer!
+</h3>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=kiprutobrian&style=flat&color=blueviolet" alt=umararfeen />
 </p>
