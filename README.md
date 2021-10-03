@@ -13,8 +13,10 @@
     Data/Machine Learning | Web Developer | Software Engineer!
 </h3>
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=kiprutobrian&style=flat&color=blueviolet" alt=umararfeen />
+    <img src="https://komarev.com/ghpvc/?username=kiprutobrian&style=flat&color=blueviolet" alt="kiprutobrian" />
 </p>
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kiprutobrian.kiprutobrian)](https://github.com/kiprutobrian) [![GitHub followers](https://img.shields.io/github/followers/kiprutobrian.svg?style=social&label=Follow)](https://github.com/kiprutobrian?tab=followers)
 
 ```python3
 import os
