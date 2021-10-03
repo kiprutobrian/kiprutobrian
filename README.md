@@ -30,19 +30,19 @@ print(f"Welcome {os.popen('whoami').read().strip()}!! 👋")
 
 
 <p align="center">
-    <a href="https://twitter.com/bkipruto_koima" target="blank">
-        <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="bkipruto_koima" height="25" width="25" />
-    </a>
-    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kipruto-brian" target="blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="kipruto-brian" height="25" width="25" />
     </a> 
+    &nbsp;&nbsp;
+    <a href="https://twitter.com/bkipruto_koima" target="blank">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="bkipruto_koima" height="25" width="25" />
+    </a>
     &nbsp;&nbsp;   
     <a href="https://codepen.io/kiprutobrian" target="blank">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" alt="bkipruto_koima" height="25" width="25" />
     </a>
     &nbsp;&nbsp;   
     <a href="https://www.behance.net/briankipruto" target="blank">
-        <img align="center" src="https://a5.behance.net/07593793c3cc44f8f7be480b6e665008bebfcbfe/img/site/favicon.ico?cb=264615658" alt="bkipruto_koima" height="25" width="25" />
+        <img align="center" src="https://a5.behance.net/07593793c3cc44f8f7be480b6e665008bebfcbfe/img/site/favicon.ico?cb=264615658" alt="bkipruto_koima"                        height="25" width="25" />
     </a>
 </p>
