@@ -25,11 +25,22 @@ import os
 def greet():
 print(f"Welcome {os.popen('whoami').read().strip()}!! 👋")
 ```
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kiprutobrian&count_private=true&show_icons=true&theme=radical"
+<div>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=kiprutobrian&count_private=true&show_icons=true&theme=radical"
         alt=kipruto-brian />
-</p>
+        <br />
+        <br />
+        <b><em>GitHub Highlights</em></b>
+        <br />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiprutobrian" alt="GitHub Highlights" />
+        <br />
+        <br />
+        <!-- <b><em>Programming activity (Last 7 days):</em></b> 
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kiprutobrian" alt="WakaTime" /> -->
+    </p>
+</div>
 
 #### Languages
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() 
