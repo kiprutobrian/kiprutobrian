@@ -31,11 +31,13 @@ print(f"Welcome {os.popen('whoami').read().strip()}!! 👋")
 
 <p align="center">
     <a href="https://twitter.com/bkipruto_koima" target="blank">
-        <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="bkipruto_koima"
-            height="25" width="25" />
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="bkipruto_koima" height="25" width="25" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kipruto-brian" target="blank">
-        <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg
-            alt="kipruto-brian" height="25" width="25" />
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="kipruto-brian" height="25" width="25" />
+    </a>    
+    <a href="https://codepen.io/kiprutobrian" target="blank">
+        <img align="center" ssrc="https://cdn-icons-png.flaticon.com/512/2111/2111341.png" alt="bkipruto_koima" height="25" width="25" />
     </a>
 </p>
