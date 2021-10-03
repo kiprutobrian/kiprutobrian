@@ -14,9 +14,10 @@
 </h3>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=kiprutobrian&style=flat&color=blueviolet" alt="kiprutobrian" />
+    [![GitHub followers](https://img.shields.io/github/followers/kiprutobrian.svg?style=social&label=Follow&color=blueviolet)](https://github.com/kiprutobrian?tab=followers)
 </p>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kiprutobrian.kiprutobrian)](https://github.com/kiprutobrian) [![GitHub followers](https://img.shields.io/github/followers/kiprutobrian.svg?style=social&label=Follow)](https://github.com/kiprutobrian?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kiprutobrian.kiprutobrian)](https://github.com/kiprutobrian) 
 
 ```python3
 import os
@@ -29,7 +30,6 @@ print(f"Welcome {os.popen('whoami').read().strip()}!! 👋")
     <img src="https://github-readme-stats.vercel.app/api?username=kiprutobrian&count_private=true&show_icons=true&theme=radical"
         alt=kipruto-brian />
 </p>
-
 
 <p align="center">
     <a href="https://www.linkedin.com/in/kipruto-brian" target="blank">
