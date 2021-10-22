@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="https://octodex.github.com/images/manufacturetocat.png" height="250px" width="250px">
+    <img src="https://octodex.github.com/images/manufacturetocat.png" height="160px" width="160px">
     <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
     <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
-    <img src="https://octodex.github.com/images/mona-the-rivetertocat.png" height="250px" width="250px">
+    <img src="https://octodex.github.com/images/mona-the-rivetertocat.png" height="160px" width="160px">
 </p>
 
 <h1 align="center">
