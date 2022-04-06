@@ -14,9 +14,7 @@
 </h1>
 
 <h3 align="center">
-    Client Strategy & Insights Specialist @ Indeed
-    <br/>
-    Data/Machine Learning | Web Developer | Software Engineer!
+    Smart Contract Developer | Web Developer | Software Engineer!
 </h3>
 
 ```python3
